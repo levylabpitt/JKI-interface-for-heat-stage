@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Buttons.vi" Type="VI" URL="../Buttons.vi"/>
+		<Item Name="On-Off v0.vi" Type="VI" URL="../On-Off v0.vi"/>
 		<Item Name="On-Off.vi" Type="VI" URL="../On-Off.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
