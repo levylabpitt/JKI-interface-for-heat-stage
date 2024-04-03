@@ -1,0 +1,4 @@
+builds/
+*.lvlps
+*.aliases
+src/Antidoc-Output/
